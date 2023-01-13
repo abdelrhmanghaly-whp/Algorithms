@@ -1,3 +1,3 @@
 # Algorithms
 
-Multi-written Algorithms in python
+Multi-written Algorithms in python.
