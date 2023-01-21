@@ -1,4 +1,4 @@
-def finbonacciSearch(list,requiredNumber):
+def fibonacciSearch(list,requiredNumber):
     size=len(list)
 
     initialStart=-1
@@ -30,4 +30,4 @@ def finbonacciSearch(list,requiredNumber):
         return "Wasn't found"
 
 ex = []
-print(finbonacciSearch())
+print(fibonacciSearch())
