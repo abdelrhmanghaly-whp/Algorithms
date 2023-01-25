@@ -1,3 +1,3 @@
-# Algorithms
+# Data Structure & Algorithms
 
-Multi-written Algorithms in python.
+Implementing several data structures and algorithm per week
