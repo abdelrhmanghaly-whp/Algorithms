@@ -36,6 +36,6 @@ class Node:
 
 '''
 To test the tree, you have to put a root node, and also you need to
-use the insertion method, and finally print the root in the post-order-tr
+use the insertion method, and finally print the root in the post-order-traversal
 '''
 # print(root.postOrderTraversal(root))
